@@ -1,0 +1,23 @@
+{
+  "name": "email-temp-2",
+  "version": "1.0.0",
+  "description": "email template testig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohzys23/email-template-test.git"
+  },
+  "keywords": [
+    "email",
+    "template"
+  ],
+  "author": "Moses Ubah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohzys23/email-template-test/issues"
+  },
+  "homepage": "https://github.com/mohzys23/email-template-test#readme"
+}
